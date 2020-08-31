@@ -1,0 +1,5 @@
+{
+	"title": [{"class":"entry-title", "element":"h1"}, {"class":"entry-title", "element":"h2"}, {"class":"entry-title", "element":"h3"}, {"class":"title", "element":"h1"}, {"class":"font-white", "element":"h1"}],
+	"content":["chapter-content", "entry-content"],
+	"nextchapter": ["NextChapter", ">>NEXT>>", ">>NextSection>>", "Next", "[Next>]", "[Next->]", "NEXT->", "NEXT"]
+}
